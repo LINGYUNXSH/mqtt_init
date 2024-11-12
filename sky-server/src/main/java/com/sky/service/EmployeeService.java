@@ -1,6 +1,6 @@
 package com.sky.service;
 
-import dto.EmployeeLoginDTO;
+import com.sky.dto.EmployeeLoginDTO;
 import com.sky.entity.Employee;
 
 public interface EmployeeService {
